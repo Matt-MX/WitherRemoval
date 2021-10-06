@@ -1,0 +1,13 @@
+name: WitherRemoval
+version: '${project.version}'
+main: com.mattmx.witherremoval.Witherremoval
+api-version: 1.17
+authors: [ MATTMX ]
+description: WITHER REMOVAL FOR FRAZZLE53
+website: https://www.mattmx.com/
+commands:
+  clearwither:
+    description: Clear withers
+permissions:
+  clearwitehr.use:
+    description: Main command, allows user to run /clearwither
